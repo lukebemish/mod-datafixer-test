@@ -1,0 +1,14 @@
+{
+    DataVersion: 3441,
+    size: [1, 1, 1],
+    _FabricDataVersions: {
+        mod_b: 4,
+        mod_a: 1
+    },
+    data: [
+        {pos: [0, 0, 0], state: "mod_b:b_outer_old", nbt: {id: "mod_b:b_outer_old", inventory: [{Count: 1, id: "mod_b:b_inner_old"}]}}
+    ],
+    palette: [
+        "mod_b:b_outer_old"
+    ]
+}

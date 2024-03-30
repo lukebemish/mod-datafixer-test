@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "mod_a",
+	"id": "mod_b",
 	"version": "${version}",
 	"name": "Example mod",
 	"description": "This is an example description! Tell everyone what your mod is about!",
@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"moda.ModA"
+			"modb.ModB"
 		]
 	},
 	"depends": {
